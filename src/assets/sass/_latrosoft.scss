@@ -16,3 +16,21 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&di
     color: $body-color;
   }
 }
+
+
+.hamburger{
+  
+  .line {
+
+    width: 50px;
+    height: 3px;
+    background-color: black ;
+  }
+}
+.list-group{
+  list-style:  none ;
+}
+
+.hero{
+  height: 80vh;
+}
