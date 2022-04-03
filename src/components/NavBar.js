@@ -57,7 +57,7 @@ function NavBar() {
             </NavItem>
           
           </Nav>
-          <NavLink style={{cursor:'pointer'}} href="/project  "  className="bg-primary text-white rounded px-3 pointer" onClick={()=>{console.log("Hello")}}>
+          <NavLink style={{cursor:'pointer'}} href="/project"  className="bg-primary text-white rounded-0 px-3 pointer" onClick={()=>{console.log("Hello")}}>
              Start Your Project
             </NavLink>
         </Collapse>
